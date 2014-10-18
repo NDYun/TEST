@@ -3,9 +3,6 @@ TEST
 
 TEST
 ===
-
 test
-
 ---------------
-
 test
